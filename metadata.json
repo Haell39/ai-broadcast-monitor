@@ -1,0 +1,7 @@
+{
+  "name": "AI Broadcast Monitor",
+  "description": "A real-time AI-powered monitor that analyzes a video feed for signal, video, or audio integrity issues and reports anomalies in a chat-like log. This prototype simulates the detection process and uses Gemini to generate technical alerts for broadcast operators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
